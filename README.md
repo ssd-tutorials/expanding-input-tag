@@ -1,2 +1,2 @@
-# expanding-input-tag
-Exercise files for the course Expanding input tag
+# Expanding input tag
+Exercise files for the course **Expanding input tag**
